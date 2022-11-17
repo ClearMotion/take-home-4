@@ -13,7 +13,11 @@ Notice that the large peak-to-peak values in the wheel vertical acceleration may
 
 Note that:
 - It is up to you to reuse the code, or create your own simulation in other languages / environments.
+- There are two main constraints:
+  - Max force: abs(f) < 2000 N
+  - Max suspension travel: abs(zb-zw) < 0.1 m
 - You can design your own cost function
+
 
 
 In your answers, please
