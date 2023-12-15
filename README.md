@@ -25,6 +25,6 @@ Note that:
 
 In your answers, please
 - Provide the simulation code and simulation results
-- Provide a short summary (half a page is good enough) to explain your answer.
+- Provide a short summary (half a page of a word documentation or 3-5 pages of slides is good enough) to explain your answer.
 
 
